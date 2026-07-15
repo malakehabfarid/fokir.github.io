@@ -107,6 +107,9 @@
     #ContactUs .content form button {
         width: 100%;
     }
+    footer {
+        font-size: 14px;
+    }
 
 }
 
